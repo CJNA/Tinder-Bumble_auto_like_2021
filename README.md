@@ -7,5 +7,6 @@ Cheers.
 How to
 - 1. Copy the js script
 - 2. Paste it into developer console
-- 3. Run the script and answer to prompts
-- 4. Cheers
+- 3. Fetch Button's xPath by clicking the asset https://stackoverflow.com/questions/3030487/is-there-a-way-to-get-the-xpath-in-google-chrome
+- 4. Run the script and answer to prompts
+- 5. Cheers
