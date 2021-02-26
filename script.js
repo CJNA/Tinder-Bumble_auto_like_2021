@@ -23,7 +23,7 @@ function getElementByXpath(path) {
 
   var count = 1;
   var like = function(){
-      if (confirmBox){ getElementByXpath(target_xpath).click();
+      if (confirmBox && count < no_of_likes){ getElementByXpath(target_xpath).click();
         console.log('Liked ' + count);						  count++;												};
       setTimeout(like, 100);
   };
